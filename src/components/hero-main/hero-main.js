@@ -7,8 +7,12 @@ function HeroMain(props) {
 					src={require("../../img/logo.png")}
 					alt=""
 				/>
+				<img
+					className="construction-logo"
+					src={require("../../img/construction.png")}
+					alt=""
+				/>
 				<p className="hero__text">
-					The Tega website is currently being worked on.
 					<br />
 					<br />
 					<br />
